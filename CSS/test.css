@@ -1,0 +1,30 @@
+body{
+	background-color: skyblue;
+}
+h1{
+	font-size: 50px;
+	color: lawngreen;
+	font-family: cursive;
+}
+h2{
+	font-size: 40px;
+	color: lightgoldenrodyellow;
+	font-family: inherit;
+}
+.big{
+	font-size: 60px;
+}
+h3{
+	font-size: 30px;
+	color: orangered;
+}
+h4{
+	font-size: 25px;
+	color: salmon;
+}
+span{
+	color: violet;
+}
+h1 span{
+	color: darkorange;
+}
